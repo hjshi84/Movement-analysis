@@ -1,0 +1,147 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+J:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+J:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+F:\暑假任务\运动捕捉实验数据处理程序\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MoDcpt.resources
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MoDcpt.resources
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MoDcpt.resources
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MoDcpt.resources
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hjshi84\Desktop\工作空间\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Form1.resources
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MoDcpt.resources
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hjshi84\Desktop\Work Space\test\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
